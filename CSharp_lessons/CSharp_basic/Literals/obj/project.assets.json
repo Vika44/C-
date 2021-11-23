@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C_Sharp\\CSharp_lessons\\CSharp_basic\\Variable_and_constant\\Variable_and_constant.csproj",
-      "projectName": "Variable_and_constant",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\C_Sharp\\CSharp_lessons\\CSharp_basic\\Variable_and_constant\\Variable_and_constant.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C_Sharp\\CSharp_lessons\\CSharp_basic\\Literals\\Literals.csproj",
+      "projectName": "Literals",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\C_Sharp\\CSharp_lessons\\CSharp_basic\\Literals\\Literals.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\C_Sharp\\CSharp_lessons\\CSharp_basic\\Variable_and_constant\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\C_Sharp\\CSharp_lessons\\CSharp_basic\\Literals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
