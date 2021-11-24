@@ -24,14 +24,6 @@ namespace Data_types
             // Implicit typing
             var system = "windows 11";
             var ghy = 20;
-
-
-
-
-
-
-
-
         }
     }
 }
