@@ -42,8 +42,6 @@ namespace Console_Input__Output
             decimal length = Convert.ToDecimal(Console.ReadLine());
 
             Console.WriteLine($"Color: {color}  Size: {size}  Brush: {length}");
-
-
         }
     }
 }
