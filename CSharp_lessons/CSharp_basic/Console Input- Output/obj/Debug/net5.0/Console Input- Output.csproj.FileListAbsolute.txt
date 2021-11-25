@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\Console Input- Output.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\Console Input- Output.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\Console Input- Output.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\Console Input- Output.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\Console Input- Output.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\ref\Console Input- Output.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\bin\Debug\net5.0\Console Input- Output.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\ref\Console Input- Output.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Console Input- Output\obj\Debug\net5.0\Console Input- Output.genruntimeconfig.cache

@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variable_and_constant", "Va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Literals", "Literals\Literals.csproj", "{55D6768D-E67D-4EDA-BBDF-7AA27BE14064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data types", "Data types\Data types.csproj", "{705437F8-1925-44CC-ACF9-061A7B7F9C6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data types", "Data types\Data types.csproj", "{705437F8-1925-44CC-ACF9-061A7B7F9C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Input- Output", "Console Input- Output\Console Input- Output.csproj", "{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{705437F8-1925-44CC-ACF9-061A7B7F9C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{705437F8-1925-44CC-ACF9-061A7B7F9C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{705437F8-1925-44CC-ACF9-061A7B7F9C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
