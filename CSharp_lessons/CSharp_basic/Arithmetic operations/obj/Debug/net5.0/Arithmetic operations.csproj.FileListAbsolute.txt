@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\Arithmetic operations.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\Arithmetic operations.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\Arithmetic operations.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\Arithmetic operations.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\Arithmetic operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\ref\Arithmetic operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\bin\Debug\net5.0\Arithmetic operations.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\ref\Arithmetic operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Arithmetic operations\obj\Debug\net5.0\Arithmetic operations.genruntimeconfig.cache

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Literals", "Literals\Litera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data types", "Data types\Data types.csproj", "{705437F8-1925-44CC-ACF9-061A7B7F9C6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Input- Output", "Console Input- Output\Console Input- Output.csproj", "{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Input- Output", "Console Input- Output\Console Input- Output.csproj", "{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic operations", "Arithmetic operations\Arithmetic operations.csproj", "{4D18579C-EF65-49B4-BD3F-DF90026E9EF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19AC87E1-A327-45F4-BD35-B9B1E0CDE024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D18579C-EF65-49B4-BD3F-DF90026E9EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D18579C-EF65-49B4-BD3F-DF90026E9EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D18579C-EF65-49B4-BD3F-DF90026E9EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D18579C-EF65-49B4-BD3F-DF90026E9EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
