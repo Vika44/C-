@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\Bitwise_operations.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\Bitwise_operations.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\Bitwise_operations.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\Bitwise_operations.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\Bitwise_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\ref\Bitwise_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\bin\Debug\net5.0\Bitwise_operations.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\ref\Bitwise_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Bitwise_operations\obj\Debug\net5.0\Bitwise_operations.genruntimeconfig.cache
