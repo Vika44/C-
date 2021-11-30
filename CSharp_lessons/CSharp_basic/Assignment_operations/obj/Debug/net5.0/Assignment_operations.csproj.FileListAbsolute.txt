@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\Assignment_operations.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\Assignment_operations.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\Assignment_operations.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\Assignment_operations.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\Assignment_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\ref\Assignment_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\bin\Debug\net5.0\Assignment_operations.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\ref\Assignment_operations.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Assignment_operations\obj\Debug\net5.0\Assignment_operations.genruntimeconfig.cache
