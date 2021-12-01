@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arithmetic operations", "Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitwise_operations", "Bitwise_operations\Bitwise_operations.csproj", "{1A2F92AA-88D4-40B5-B10E-34B357326D38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_operations", "Assignment_operations\Assignment_operations.csproj", "{B9B6F45E-690F-4FD3-B895-EB4C53AF5FB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_operations", "Assignment_operations\Assignment_operations.csproj", "{B9B6F45E-690F-4FD3-B895-EB4C53AF5FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_expressions", "Conditional_expressions\Conditional_expressions.csproj", "{5A3AF8CF-CE53-451D-A9E0-DD6241D94827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B9B6F45E-690F-4FD3-B895-EB4C53AF5FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B6F45E-690F-4FD3-B895-EB4C53AF5FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B6F45E-690F-4FD3-B895-EB4C53AF5FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3AF8CF-CE53-451D-A9E0-DD6241D94827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3AF8CF-CE53-451D-A9E0-DD6241D94827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3AF8CF-CE53-451D-A9E0-DD6241D94827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3AF8CF-CE53-451D-A9E0-DD6241D94827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
