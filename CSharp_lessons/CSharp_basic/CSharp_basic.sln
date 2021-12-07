@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_operations", "As
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional_expressions", "Conditional_expressions\Conditional_expressions.csproj", "{5A3AF8CF-CE53-451D-A9E0-DD6241D94827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_else_Construction_and_Ternary_operation", "If_else_Construction_and_Ternary_operation\If_else_Construction_and_Ternary_operation.csproj", "{0075AB5F-0B15-4045-A83E-5F39B0FF0D15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If_else_Construction_and_Ternary_operation", "If_else_Construction_and_Ternary_operation\If_else_Construction_and_Ternary_operation.csproj", "{0075AB5F-0B15-4045-A83E-5F39B0FF0D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycles", "Cycles\Cycles.csproj", "{BEA275DE-45A3-4C21-8DEE-94E550C1F55F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{0075AB5F-0B15-4045-A83E-5F39B0FF0D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0075AB5F-0B15-4045-A83E-5F39B0FF0D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0075AB5F-0B15-4045-A83E-5F39B0FF0D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA275DE-45A3-4C21-8DEE-94E550C1F55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA275DE-45A3-4C21-8DEE-94E550C1F55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA275DE-45A3-4C21-8DEE-94E550C1F55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA275DE-45A3-4C21-8DEE-94E550C1F55F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
