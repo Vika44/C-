@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\Parameters of methods.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\Parameters of methods.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\Parameters of methods.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\Parameters of methods.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\Parameters of methods.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\ref\Parameters of methods.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\bin\Debug\net5.0\Parameters of methods.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\ref\Parameters of methods.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Parameters of methods\obj\Debug\net5.0\Parameters of methods.genruntimeconfig.cache
