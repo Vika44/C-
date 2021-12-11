@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameters of methods", "Parameters of methods\Parameters of methods.csproj", "{FA647E29-BF62-4F69-8D6D-94E8309549E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return value and RETURN operator", "Return value and RETURN operator\Return value and RETURN operator.csproj", "{8B798341-BFDD-4CEF-854C-4B153DE749E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FA647E29-BF62-4F69-8D6D-94E8309549E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA647E29-BF62-4F69-8D6D-94E8309549E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA647E29-BF62-4F69-8D6D-94E8309549E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B798341-BFDD-4CEF-854C-4B153DE749E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B798341-BFDD-4CEF-854C-4B153DE749E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B798341-BFDD-4CEF-854C-4B153DE749E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B798341-BFDD-4CEF-854C-4B153DE749E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

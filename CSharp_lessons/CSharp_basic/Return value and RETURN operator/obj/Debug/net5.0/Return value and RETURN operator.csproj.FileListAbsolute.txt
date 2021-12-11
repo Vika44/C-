@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\Return value and RETURN operator.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\Return value and RETURN operator.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\Return value and RETURN operator.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\Return value and RETURN operator.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\Return value and RETURN operator.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\ref\Return value and RETURN operator.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\bin\Debug\net5.0\Return value and RETURN operator.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\ref\Return value and RETURN operator.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Return value and RETURN operator\obj\Debug\net5.0\Return value and RETURN operator.genruntimeconfig.cache
