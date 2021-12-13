@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Transfer of parameters for reference and value_Output parameters/1.0.0": {
+        "runtime": {
+          "Transfer of parameters for reference and value_Output parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transfer of parameters for reference and value_Output parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
