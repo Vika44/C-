@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\Array parameters and keyword Params.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\Array parameters and keyword Params.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\Array parameters and keyword Params.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\Array parameters and keyword Params.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\Array parameters and keyword Params.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\ref\Array parameters and keyword Params.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\bin\Debug\net5.0\Array parameters and keyword Params.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\ref\Array parameters and keyword Params.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Array parameters and keyword Params\obj\Debug\net5.0\Array parameters and keyword Params.csproj.AssemblyReference.cache

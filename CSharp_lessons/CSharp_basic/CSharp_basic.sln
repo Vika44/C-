@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return value and RETURN ope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer of parameters for reference and value_Output parameters", "Transfer of parameters for reference and value_Output parameters\Transfer of parameters for reference and value_Output parameters.csproj", "{A012395E-AF65-4A8D-9535-BC8C2DF7A37C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array parameters and keyword Params", "Array parameters and keyword Params\Array parameters and keyword Params.csproj", "{68685D57-82EC-434E-B943-31010D87D5D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A012395E-AF65-4A8D-9535-BC8C2DF7A37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A012395E-AF65-4A8D-9535-BC8C2DF7A37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A012395E-AF65-4A8D-9535-BC8C2DF7A37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68685D57-82EC-434E-B943-31010D87D5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68685D57-82EC-434E-B943-31010D87D5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68685D57-82EC-434E-B943-31010D87D5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68685D57-82EC-434E-B943-31010D87D5D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

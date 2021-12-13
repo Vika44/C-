@@ -67,6 +67,7 @@ namespace Transfer_of_parameters_for_reference_and_value_Output_parameters
             GetRectangleData(w, h, out var area1, out var perimetr1);
 
             Console.WriteLine($"Square rectangle: {area1}");       
-            Console.WriteLine($"Perimeter of rectangle: {perimetr1}");        }
+            Console.WriteLine($"Perimeter of rectangle: {perimetr1}");        
+        }
     }
 }
