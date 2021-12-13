@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\Recursive functions.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\Recursive functions.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\Recursive functions.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\Recursive functions.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\Recursive functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\ref\Recursive functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\bin\Debug\net5.0\Recursive functions.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\ref\Recursive functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Recursive functions\obj\Debug\net5.0\Recursive functions.genruntimeconfig.cache

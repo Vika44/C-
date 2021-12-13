@@ -57,8 +57,6 @@ namespace Array_parameters_and_keyword_Params
             Sum3(nums2, 4); // Since the SUM method takes an array as a parameter
                             // without a keyword Params, then when it is called,
                             // we must convey an array as the first parameter.
-
-
         }
     }
 }
