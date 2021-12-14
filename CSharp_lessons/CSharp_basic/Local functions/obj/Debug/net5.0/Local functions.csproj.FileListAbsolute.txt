@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\Local functions.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\Local functions.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\Local functions.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\Local functions.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\Local functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\ref\Local functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\bin\Debug\net5.0\Local functions.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\ref\Local functions.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Local functions\obj\Debug\net5.0\Local functions.csproj.AssemblyReference.cache

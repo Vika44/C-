@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parameters of methods", "Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return value and RETURN operator", "Return value and RETURN operator\Return value and RETURN operator.csproj", "{8B798341-BFDD-4CEF-854C-4B153DE749E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer of parameters for reference and value_Output parameters", "Transfer of parameters for reference and value_Output parameters\Transfer of parameters for reference and value_Output parameters.csproj", "{A012395E-AF65-4A8D-9535-BC8C2DF7A37C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transfer of parameters for reference and value_Output parameters", "Transfer of parameters for reference and value_Output parameters\Transfer of parameters for reference and value_Output parameters.csproj", "{A012395E-AF65-4A8D-9535-BC8C2DF7A37C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array parameters and keyword Params", "Array parameters and keyword Params\Array parameters and keyword Params.csproj", "{68685D57-82EC-434E-B943-31010D87D5D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array parameters and keyword Params", "Array parameters and keyword Params\Array parameters and keyword Params.csproj", "{68685D57-82EC-434E-B943-31010D87D5D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive functions", "Recursive functions\Recursive functions.csproj", "{68CA8748-4386-495C-A84F-4BCDB5866E3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive functions", "Recursive functions\Recursive functions.csproj", "{68CA8748-4386-495C-A84F-4BCDB5866E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Local functions", "Local functions\Local functions.csproj", "{56A46CC1-F9C1-432E-AECF-3EA1BCBABF02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{68CA8748-4386-495C-A84F-4BCDB5866E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68CA8748-4386-495C-A84F-4BCDB5866E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68CA8748-4386-495C-A84F-4BCDB5866E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A46CC1-F9C1-432E-AECF-3EA1BCBABF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A46CC1-F9C1-432E-AECF-3EA1BCBABF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A46CC1-F9C1-432E-AECF-3EA1BCBABF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A46CC1-F9C1-432E-AECF-3EA1BCBABF02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
