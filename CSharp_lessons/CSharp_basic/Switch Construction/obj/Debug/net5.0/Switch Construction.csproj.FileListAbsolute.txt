@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\Switch Construction.exe
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\Switch Construction.deps.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\Switch Construction.runtimeconfig.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\Switch Construction.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\Switch Construction.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\ref\Switch Construction.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\bin\Debug\net5.0\Switch Construction.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\ref\Switch Construction.dll
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.pdb
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C_Sharp\CSharp_lessons\CSharp_basic\Switch Construction\obj\Debug\net5.0\Switch Construction.csproj.AssemblyReference.cache
